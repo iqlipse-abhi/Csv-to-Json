@@ -36,8 +36,7 @@ function createServer() {
       "Server Running on port 3000"
     );
   });
-
-  // global error handler (must be last)
+  
   app.use(errorHandler);
 
   return app;
