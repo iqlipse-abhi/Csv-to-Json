@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Uploaded CSV files
+uploads/
+
+# Optional Mac/IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Build directories (if any)
+dist/
+build/
